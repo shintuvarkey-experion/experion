@@ -2,7 +2,7 @@ Anusree
 Dona
 Aswathy
 Sachin 
-Amal c
+Amal C
 Hemanth
 Muhammed Ashique
 Reenu
