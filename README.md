@@ -6,7 +6,7 @@ Amal c
 Hemanth
 Anish Varghese
 Muhammed Ashique
-Christy John Mathew
+Christy 
 Manu Radhakrishnan
 reenu
 Ann Maria
