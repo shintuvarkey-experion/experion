@@ -1,4 +1,9 @@
+﻿
+﻿
+﻿Aswathy
 
+
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 =======
@@ -14,21 +19,33 @@ Amal c
 Hemanth
 
 Muhammed Ashique
+=======
+Sachin 
 
+
+Amal c
+
+>>>>>>> 7be7e71c1c28348ce5dcec15b044f597c752586e
+
+Christy John Mathew
 
 
 reenu
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 
 >>>>>>> b7c9bd451c8e573835cfbf5653242f9dd4ec8f20
 # experion
-Christy John Mathew
-# Hemanth oola
+=======
 
+>>>>>>> 7be7e71c1c28348ce5dcec15b044f597c752586e
+Christy John Mathew
+
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 
@@ -39,11 +56,11 @@ Anusree
 reenu
 =======
 =======
-
-
-# experion
 =======
+>>>>>>> 7be7e71c1c28348ce5dcec15b044f597c752586e
+
 Manu Radhakrishnan
+<<<<<<< HEAD
 =======
 # Hemanth oola
 =======
@@ -53,13 +70,15 @@ Manu Radhakrishnan
 
 Ann Maria
 
+=======
+>>>>>>> 7be7e71c1c28348ce5dcec15b044f597c752586e
 
 
-vishnupriya
 
 Hemanth oola
 
 
+<<<<<<< HEAD
 reenu
 
 
@@ -69,6 +88,9 @@ Hemanth oola
 
 
 Hemanth 
+=======
+
+>>>>>>> 7be7e71c1c28348ce5dcec15b044f597c752586e
 
  
 
@@ -88,6 +110,5 @@ Anumol
 
 
 Renjith R
-=======
 
 >>>>>>> b7c9bd451c8e573835cfbf5653242f9dd4ec8f20
